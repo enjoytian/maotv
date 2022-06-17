@@ -504,7 +504,4 @@
     "cms.qdwght.com"
   ],
   "spider": "https://enjoytian.github.io/maotv/BL0608.jar",
-  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9lbmpveXRpYW4uZ2l0aHViLmlvL21hb3R2L3poaWJvLnR4dA=="
-]}]}],
 }
